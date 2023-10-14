@@ -4,7 +4,7 @@ import { GiftsView } from "./views/GiftsView";
 import { Routes, Route } from "react-router-dom";
 import { Header } from "./components/Header/Header";
 import { NotFoundView } from "./views/NotFoundView";
-import { SingleGiftView } from "./components/Gifts/SingleGiftView";
+import { SingleGiftView } from "./views/SingleGiftView";
 import { ChildView } from "./views/ChildView";
 
 export const App = () => (
