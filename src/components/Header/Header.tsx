@@ -14,8 +14,8 @@ export const Header = () => {
         Gifts
       </NavLink>
       |
-      <NavLink style={colorOfLink} to="/test">
-        Test
+      <NavLink style={colorOfLink} to="/child">
+        Children
       </NavLink>
       <hr />
     </>
